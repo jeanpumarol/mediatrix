@@ -85,21 +85,7 @@ ul.menu {
   width: 20px;
   height: auto;
 }
-
-footer {
-  background-image: url(./img/footer-1.jpg);
-  background-size: contain;
-  height: auto;
-  padding: 55px 0 10px;
-  overflow: auto;
-  color: #d7d3d3;
-}
-
-.footer-logo {
-  height: 40px;
-}
-
-footer p {
-  font-family: "Raleway";
-  font-weight: 200;
+.footer {
+  width: 100% !important;
+  height: 330 !important;
 }
