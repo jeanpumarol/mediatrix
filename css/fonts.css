@@ -1,0 +1,14 @@
+@font-face {
+   font-family:'Bitsumishi';
+    src:url('../fonts/Bitsumishi.eot');
+    src: url('../fonts/Bitsumishi.eot') format('embedded-opentype'),
+	         url('../fonts/Bitsumishi.woff2') format('woff2'),
+         url('../fonts/Bitsumishi.woff') format('woff'),
+         url('../fonts/Bitsumishi.ttf') format('truetype'),
+         url('../fonts/Bitsumishi.svg#Bitsumishi') format('svg'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+
