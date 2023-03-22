@@ -23,8 +23,8 @@ nav {
   color: white;
   position: absolute;
   top: 0px;
-  right: 12.5%;
-  left: 12.5%;
+  right: 20%;
+  left: 20%;
   z-index: 10;
 }
 
@@ -78,7 +78,7 @@ ul.menu {
   background-size: contain;
   height: 300px;
   overflow: auto;
-  color: #d7d3d3;
+  color: #ffffff;
   justify-content: center;
   display: flex;
   align-items: center;
@@ -88,6 +88,15 @@ ul.menu {
   color: #fff;
   background-color: #eb1717;
   border-color: #eb1717;
+}
+.list-group-item {
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.tab-content {
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: 0px;
 }
 
 footer {
