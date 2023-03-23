@@ -83,6 +83,20 @@ ul.menu {
   display: flex;
   align-items: center;
 }
+.card-img-top {
+  color: #ea0808;
+  background-color: #ea0808;
+  width: 60px;
+  height: 53px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.card-text {
+  text-align: justify;
+}
 
 footer {
   background-image: url(../img/footer-1.jpg);
