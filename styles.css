@@ -119,7 +119,7 @@ ul.menu {
 }
 
 .partners-img:hover {
-  filter: blur(1px);
+  filter: invert(10%);
 }
 
 .grey-section {
