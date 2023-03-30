@@ -1,142 +1,148 @@
-p, h1, h2, h3, h4, h5, h6, ul {
-    margin: 0px;
-    padding: 0px;
-    font-family: "Raleway";
-    font-weight: 600;
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ul {
+  margin: 0px;
+  padding: 0px;
 }
 
 header img {
-    height: 60px;
+  height: 60px;
 }
 
 header {
-    padding: 25px 100px;
+  padding: 25px 200px;
 }
 
 nav {
-    background-color: black;
-    color: white;
-    position: absolute;
-    top: 0px;
-    right: 12.5%;
-    left: 12.5%;
-    z-index: 10;
+  background-color: black;
+  color: white;
+  position: absolute;
+  top: 0px;
+  right: 20%;
+  left: 20%;
+  z-index: 10;
 }
 
 .menu-and-carousel {
-    position: relative;
+  position: relative;
 }
 
 .circle {
-    height: 75px;
-    width: 75px;
-    border: 1px solid #cecece;
-    padding: 15px;
-    border-radius: 40%;
+  height: 75px;
+  width: 75px;
+  border: 1px solid #cecece;
+  padding: 15px;
+  border-radius: 40%;
 }
 
 #carousel {
-    height: 350px;
+  height: 350px;
 }
 
 .carousel-indicators button {
-    height: 10px;
-    width: 10px;
-    margin: 0px 2px;
-    background-color: transparent;
-    border: 1px solid white;
-    border-radius: 100px;
+  height: 10px;
+  width: 10px;
+  margin: 0px 2px;
+  background-color: transparent;
+  border: 1px solid white;
+  border-radius: 100px;
 }
 
 button .active {
-    background-color: white;
+  background-color: white;
 }
 
 a {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 
 a:hover {
-    text-decoration: none;
-    color: #f47f30;
+  text-decoration: none;
+  color: #f47f30;
 }
 
 ul.menu {
-    list-style-type: none;
+  list-style-type: none;
 }
 
 .header-link {
-    font-weight: 200;
-    padding: 15px 25px;
+  font-family: "Raleway";
+  font-weight: 200;
+  padding: 15px 25px;
 }
 
 .title {
-    font-weight: 200;
-    font-size: 39px;
+  font-weight: 200;
+  font-size: 39px;
 }
 
 .grey-section {
-    background-color: #eeeeee;
-    padding: 15px;
+  background-color: #eeeeee;
+  padding: 15px;
 }
 
 .form-input {
-    width: 100%;
-    height: 45px;
-    padding: 6px 12px;
-    font-size: 14px;
-    color: #555;
-    background-color: #fff;
-    border: 1px solid #ccc;
+  width: 100%;
+  height: 45px;
+  padding: 6px 12px;
+  font-size: 14px;
+  color: #555;
+  background-color: #fff;
+  border: 1px solid #ccc;
 }
 
 #body-page {
-    background-image: url(../img/footer-1.jpg);
-    background-size: contain;
-    height: 300px;
-    overflow: auto;
-    color: #ffffff;
-    justify-content: center;
-    display: flex;
-    align-items: center;
+  background-image: url(../img/footer-1.jpg);
+  background-size: contain;
+  height: 300px;
+  overflow: auto;
+  color: #ffffff;
+  justify-content: center;
+  display: flex;
+  align-items: center;
 }
 
 .span-title {
-    font-weight: 600;
+  font-weight: 600;
 }
 
 #black-line-header {
-    background-color: black;
-    height: 20px;
+  background-color: black;
+  height: 20px;
 }
 
 #icon-wrapper {
-    border-left: 1px solid black;
-    border-right: 1px solid black;
-    padding: 5px;
-    width: 60px;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  padding: 5px;
+  width: 60px;
 }
 
 #icon-wrapper img {
-    width:20px;
-    height: auto;
+  width: 20px;
+  height: auto;
 }
 
 footer {
-    background-image: url(../img/footer-1.jpg);
-    background-size: contain;
-    height: auto;
-    padding: 55px 0 10px;
-    overflow: auto;
-    color: #d7d3d3;
+  background-image: url(../img/footer-1.jpg);
+  background-size: contain;
+  height: auto;
+  padding: 55px 0 10px;
+  overflow: auto;
+  color: #d7d3d3;
 }
 
 .footer-logo {
-    height: 40px;
+  height: 40px;
 }
 
 footer p {
-    font-family: "Raleway";
-    font-weight: 200;
+  font-family: "Raleway";
+  font-weight: 200;
 }
